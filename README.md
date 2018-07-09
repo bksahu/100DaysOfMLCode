@@ -10,3 +10,10 @@ Day 1 - [Simple Linear Regression](https://github.com/bksahu/100DaysOfMLCode/tre
     - Using Statsmodel
     - Using Sklearn
 ```
+
+Day 2 - [Features Selection For Multiple Linear Regression](https://github.com/bksahu/100DaysOfMLCode/tree/master/2.%20Features%20Selection%20For%20Multiple%20Linear%20Regression)
+```python
+- Understood Multiple Linear Regression
+- Implemented it using Statsmodel
+- Learnt about features selection
+```
