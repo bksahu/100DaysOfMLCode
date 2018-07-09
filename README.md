@@ -2,7 +2,7 @@
 
 I am taking up the #100DaysOfMLCode Challenge :sunglasses:
 
-Day 1 - [Simple Linear Regression](./1. Simple Linear Regression)
+Day 1 - [Simple Linear Regression](https://github.com/bksahu/100DaysOfMLCode/tree/master/1.%20Simple%20Linear%20Regression)
 ```python
  - Understood Simple Linear Regression
  - Implemented it in python
