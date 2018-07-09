@@ -1,6 +1,6 @@
 # 100DaysOfMLCode
 
-I am taking up the #100DaysOfMLCode Challenge :sunglasses:
+I am taking up the [#100DaysOfMLCode Challenge](https://twitter.com/hashtag/100DaysOfMLCode?src=hash) :sunglasses:
 
 Day 1 - [Simple Linear Regression](https://github.com/bksahu/100DaysOfMLCode/tree/master/1.%20Simple%20Linear%20Regression)
 ```python
