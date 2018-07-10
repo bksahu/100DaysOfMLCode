@@ -17,3 +17,10 @@ Day 2 - [Features Selection For Multiple Linear Regression](https://github.com/b
 - Implemented it using Statsmodel
 - Learnt about features selection
 ```
+
+Day 3 - [Linear Regression with Gradient Descent](https://github.com/bksahu/100DaysOfMLCode/tree/master/3.%20Linear%20Regression%20with%20Gradient%20Descent)
+```python
+- Understood Gradient Descent
+- Understood what is cost function and it's significance 
+- Implemented it form Scratch using python
+```
