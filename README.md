@@ -21,6 +21,12 @@ Day 2 - [Features Selection For Multiple Linear Regression](https://github.com/b
 Day 3 - [Linear Regression with Gradient Descent](https://github.com/bksahu/100DaysOfMLCode/tree/master/3.%20Linear%20Regression%20with%20Gradient%20Descent)
 ```python
 - Understood Gradient Descent
-- Understood what is cost function and it's significance 
-- Implemented it form Scratch using python
+- Understood what is cost function and it's significance
+- Implemented it from Scratch using python
+```
+
+Day 4 - [Naive Bayes Classifier](https://github.com/bksahu/100DaysOfMLCode/tree/master/4.%20Naive%20Bayes%20Classifier)
+```python
+- Understood Naive Bayes Classifier
+- Implemented it using Sklearn
 ```
