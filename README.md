@@ -49,5 +49,5 @@ Day 6 -
 ```python
 - Understood SVM Classifier
 - Implemented it using Sklearn
-- Played with parameters
+- Played with parameters.
 ```
