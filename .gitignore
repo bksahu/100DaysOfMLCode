@@ -22,6 +22,7 @@ var/
 wheels/
 *.egg-info/
 .installed.cfg
+
 *.egg
 MANIFEST
 
@@ -102,3 +103,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+Lazy100.py

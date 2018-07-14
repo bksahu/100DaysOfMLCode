@@ -30,3 +30,17 @@ Day 4 - [Naive Bayes Classifier](https://github.com/bksahu/100DaysOfMLCode/tree/
 - Understood Naive Bayes Classifier
 - Implemented it using Sklearn
 ```
+
+Day 5 - [KNN](https://github.com/bksahu/100DaysOfMLCode/)
+```python
+- Understood kNN Classifier
+- Implemented it using Sklearn
+```
+
+Day 6 -
+[Random Forest](https://github.com/bksahu/100DaysOfMLCode/)
+```python
+- Understood kNN Classifier
+- Implemented it using Sklearn
+- Learnt how to find important features and used it
+```
