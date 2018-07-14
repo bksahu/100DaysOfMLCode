@@ -44,3 +44,10 @@ Day 6 -
 - Implemented it using Sklearn
 - Learnt how to find important features and used it
 ```
+Day 6 -
+[SVM](https://github.com/bksahu/100DaysOfMLCode/)
+```python
+- Understood SVM Classifier
+- Implemented it using Sklearn
+- Played with parameters
+```
