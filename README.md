@@ -44,10 +44,17 @@ Day 6 -
 - Implemented it using Sklearn
 - Learnt how to find important features and used it
 ```
-Day 6 -
+Day 7 -
 [SVM](https://github.com/bksahu/100DaysOfMLCode/)
 ```python
 - Understood SVM Classifier
 - Implemented it using Sklearn
 - Played with parameters
+```
+Day 8 -
+[NumPy - I](https://github.com/bksahu/100DaysOfMLCode/)
+```python
+- Understood the advantages of NumPy array in contrast with Python Lists
+- Learnt to create NumPy array
+- Learnt array slicing
 ```
