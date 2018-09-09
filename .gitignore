@@ -104,4 +104,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# lazy100
 Lazy100.py
+
