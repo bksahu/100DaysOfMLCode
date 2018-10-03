@@ -109,3 +109,6 @@ Lazy100.py
 
 # keras model
 *.h5
+
+# Numpy save
+*.npz
